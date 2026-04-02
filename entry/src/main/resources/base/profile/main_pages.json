@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/GamePage",
+    "pages/LevelPage",
+    "pages/NavigationPage"
+  ]
+}
